@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Saleh Alkhalifa/Documents/GitHub/book-store-cpp/main.cpp
+iostream
+-
+string.h
+-
+stdlib.h
+-
+
